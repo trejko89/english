@@ -1,0 +1,13 @@
+
+body{
+	background:url("../img/circles-dark.png");
+
+}
+#kolumnapierwsza, #kolumnadruga{
+	width: 50%;
+	text-align: left;
+	float: left;
+}
+#naalert{
+	visibility: hidden;
+}
